@@ -8,3 +8,7 @@ Write a Python program that:
 • Replaces missing values with the average score.
 • Removes duplicate player entries.
 • Sorts players based on performance.
+
+# Tech stack used for this program
+
+python, 
